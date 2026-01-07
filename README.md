@@ -17,10 +17,10 @@ This project documents a hands-on web application security assessment conducted 
 4. Documentation of findings and remediation steps
 
 ## Key Findings
-- Cross-Site Scripting (XSS)
+- Remote Code Execution
 - SQL Injection
-- Missing Security Headers
-- Insecure Cookies
+- Source Code Disclosure
+- Application Error Disclosure
 
 ## Screenshots
 Screenshots of the scan process and vulnerabilities are available in the screenshots folder.
